@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="160" viewBox="0 0 840 160" role="img" aria-labelledby="title desc">
+  <title id="title">Zeth</title>
+  <desc id="desc">A crimson downward triangle, circle, and downward triangle on charcoal.</desc>
+  <rect width="840" height="160" rx="12" fill="#19191D"/>
+  <g fill="#D92D46">
+    <path d="M326 52h56l-28 56z"/>
+    <circle cx="420" cy="80" r="28"/>
+    <path d="M458 52h56l-28 56z"/>
+  </g>
+</svg>
