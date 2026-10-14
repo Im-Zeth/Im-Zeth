@@ -4,6 +4,4 @@
 
 `im-zeth` · Zeth
 
-Trying things. Making little things. Seeing what happens.
-
-A small corner for experiments and happy accidents.
+Curious. Capable. Ready to build.
